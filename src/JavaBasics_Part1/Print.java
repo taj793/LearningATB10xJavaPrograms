@@ -1,3 +1,5 @@
+package JavaBasics_Part1;
+
 public class Print
 {
     public static void main (String[] args)

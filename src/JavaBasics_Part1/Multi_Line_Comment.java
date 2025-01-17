@@ -1,3 +1,5 @@
+package JavaBasics_Part1;
+
 public class Multi_Line_Comment {
     public static void main(String[] args) {
         System.out.println("Hello World");
