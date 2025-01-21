@@ -9,7 +9,7 @@ public class Lab069_In_de_op {
         System.out.println(args[1]); // 100
         System.out.println(args[2]); // 101
         System.out.println(args[3]); // 56
-//        System.out.println(args[4]); // java.lang.ArrayIndexOutOfBoundsException
+        System.out.println(args[4]); // java.lang.ArrayIndexOutOfBoundsException
         // 99 100 101 56
 
         String canIGoGoa =  age >= 24 ? "Yes" : "No";
